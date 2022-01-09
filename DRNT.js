@@ -1,3 +1,3 @@
 function Accept() {
-    window.location="DRNt_accept.html";
+    window.location;"DRNT_accept.html";
 }
